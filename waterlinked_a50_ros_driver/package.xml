@@ -13,6 +13,7 @@
   <!-- Example: -->
   <url type="website">https://waterlinked.com/product/dvl-a50</url>
 
+  <depend>waterlinked_a50_interfaces</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
